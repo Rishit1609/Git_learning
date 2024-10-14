@@ -1,0 +1,6 @@
+1) git init
+2) git status
+
+ check untracked files and add them for tracking
+
+3) git add filename.extension
