@@ -4,3 +4,7 @@
  check untracked files and add them for tracking
 
 3) git add filename.extension
+
+4) git config --global user.email "rishitpandey273@gmail.com"
+
+5) git commit -m "This is my first commit"
