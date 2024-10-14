@@ -9,3 +9,7 @@ or git add . to add all files
 4) git config --global user.email "rishitpandey273@gmail.com"
 
 5) git commit -m "This is my first commit"
+
+6) git remote add origin https://github.com/Rishit1609/Git_learning.git
+git branch -M main
+git push -u origin main
