@@ -13,3 +13,7 @@ or git add . to add all files
 6) git remote add origin https://github.com/Rishit1609/Git_learning.git
 git branch -M main
 git push -u origin main
+
+7)git branch demo
+git switch demo
+do changes then commit then merge
